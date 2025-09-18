@@ -9,7 +9,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 ### Ön Gereksinimler
 
 * [Node.js](https://nodejs.org/) (tercihen LTS sürümü)
-* [npm](https://www.npmjs.com/)
+* [npm](https://www.npmjs.com/) 
 
 ### Kurulum
 
